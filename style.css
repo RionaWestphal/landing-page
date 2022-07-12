@@ -151,3 +151,10 @@ img {
     border-style:solid;
     border-color:white;
 }
+
+.footer {
+    background-color:#1f2937;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
