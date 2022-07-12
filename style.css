@@ -122,3 +122,32 @@ img {
     margin:0;
     text-align:right;
 }
+
+.action {
+    background-color: #3882f6;
+    color:white;
+    margin: 100px 150px;
+    padding:40px 50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:80px;
+    border-radius:8px;
+}
+
+.action-head {
+    font-size:24px;
+    font-weight:bold;
+    padding:0;
+    margin:0;
+}
+
+.action-sub {
+    padding:0;
+    margin:0;
+}
+
+.action button {
+    border-style:solid;
+    border-color:white;
+}
